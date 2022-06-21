@@ -1,0 +1,6 @@
+select customers.customername, customers.country, orders.orderid, shippers.shippername 
+from ((orders 
+inner join customers on orders.customerid = customers.customerid) 
+inner join shippers on orders.shipperid = shippers.shipperid)
+where country='sweden' or country='uk'
+order by customername desc;

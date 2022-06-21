@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="euc-kr" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="dailymemo.css"?>
+<dailymemo>
+	<task1>Send Text to Eugene</task1>
+	<todo>Meeting Schedule</todo>
+	<note>Try to meet before noon.</note>
+	<to>To: Eugene</to>
+	<phone>010-123-4567</phone>
+	<from>From: Hong, Gil-Dong</from>
+	<message>Can we meet tomorrow?</message>
+	<content>Please, Interprete the writing.</content>
+	<paragraph1>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut lacreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper</paragraph1>
+	<paragraph2>suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel ilum dolore eu feugiat nulla facilisis et accumsan et iusto odio</paragraph2>
+	<paragraph3>dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</paragraph3>
+	<task2>Exercise Schedule and Diet</task2>
+	<exercise1>Running 2KM</exercise1>
+	<img1>
+		<img width="100" height="100" alt="bike1" src="C:\Users\류지연\Documents\handong\21-2\web service development\homework\JeeyunRyu_CSS\running.jpg"/>
+	</img1>
+	<exercise2>Cycling 10 KM</exercise2>	
+	<img2>
+		<img width="100" height="100" alt="bike1" src="C:\Users\류지연\Documents\handong\21-2\web service development\homework\JeeyunRyu_CSS\bike1.jpg"/>
+	</img2>
+	<img3>
+		<img width="100" height="100" alt="bike1" src="C:\Users\류지연\Documents\handong\21-2\web service development\homework\JeeyunRyu_CSS\bike2.jpg"/>
+	</img3>
+	<diet>One Egg with Skim Milk</diet>
+	<task3>Reading Newspaper</task3>
+	<newspaper>Main News</newspaper>
+	
+
+</dailymemo>

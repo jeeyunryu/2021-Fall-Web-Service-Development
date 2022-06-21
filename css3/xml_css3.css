@@ -1,0 +1,25 @@
+xmlCssDemo
+{
+width: 40%;
+}
+
+header 
+{
+display: block;
+font-size: 30pt;
+color: Tomato;
+margin-bottom: 20pt;
+}
+
+p1 
+{
+display: block;
+color: DodgerBlue;
+margin-bottom: 20pt;
+}
+
+p2 
+{
+display: block;
+color: DodgerBlue;
+}

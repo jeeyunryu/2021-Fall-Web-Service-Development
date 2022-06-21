@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE note [
+
+<!ELEMENT plan (running+, meal+, reading, meeting)>
+<!ELEMENT running (howToRun)>
+<!ELEMENT hotToRun (#PCDATA)>
+<!ELEMENT meal (#PCDATA)>
+<!ATTLIST meal style ID #REQUIRED>
+<!ELEMENT reading (#PCDATA)>
+<!ELEMENT meeting (#PCDATA)>
+]>
+<plan>
+	<running>
+		<howToRun distance = "3 km"> slowly running </howToRun>
+	</running>
+	<running>
+		<howToRun> fast running 1 km </howToRun>
+	</running>
+	<meal style="Italian"> Spaghetti</meal>
+	<meal>Curry</meal>
+	<meal style="Oriental">Marinated Stake</meal>
+	<reading>Ten Thousand Milestone</reading>
+	<meeting >Othertown</meeting >
+</plan>

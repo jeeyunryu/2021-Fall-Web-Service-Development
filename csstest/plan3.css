@@ -1,0 +1,61 @@
+PLAN {
+   font-family: verdana;
+   width: 50%;
+
+}
+
+Exercise {
+    width: 500px;
+    height: 50px;
+    backgroud: LightGray;
+
+    color: MediumSeaGreen;
+
+    display: block;
+    font-weight: bold;
+    font-size:15pt;
+
+    margin-bottom: 30pt;
+    margin-top: 50pt;
+    margin-left: 20pt;
+    border: 2px dashed Violet;
+
+    -ms-transfrom: skewX(-20deg);
+    -webkit-transform: skewX(-20deg);
+    transform: skewX(-20deg);
+}
+
+MEAL {
+    color:Black;
+    display: block;
+    font-weight: bold;
+    font-size: 10pt;
+    margin-bottom: 60pt;
+    margin-left: 50pt;
+
+    width: 250px;
+    height: 50px;
+    backgroud: LightGray;
+    border: 5px solid Blue;
+}
+
+MEAL {
+    transform: rotate(-15deg);
+}
+
+READING {
+    color: SlateBlue;
+    display: block;
+    font-weight: bold;
+    font-size:10pt;
+    margin-left: 70pt;
+
+    -ms-transfrom: skewY(20deg);
+    -webkit-transform: skewY(10deg);
+    transform: skewY(20deg);
+
+    width: 500px;
+    height: 50px;
+    backgroud: Yellow;
+    border: 5px dotted Tomato;
+}

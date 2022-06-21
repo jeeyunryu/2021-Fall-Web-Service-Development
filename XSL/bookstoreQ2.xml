@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "bookstoreQ2.xsl"?>
+<bookstore>
+	<book>
+		<title lang="En">Harry Potter</title>
+		<price sale="10%">29.99</price>
+	</book>
+	<book>
+		<title lang="Kr">Korean Culture</title>
+		<price sale="15%">45.55</price>
+	</book>
+	<book>
+		<title lang="Sp">Pacific Islands</title>
+		<price sale="5%">15.55</price>
+	</book>
+	<book>
+		<title lang="Fr">Learning XML</title>
+		<price sale="20%">39.95</price>
+	</book>
+</bookstore>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="euc-kr" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="xml_css3.css"?>
+<!DOCTYPE xmlCssDemo[
+
+<!ELEMENT xmlCssDemo (header, p1, p2)>
+<!ELEMENT header (#PCDATA)>
+<!ELEMENT p1 (#PCDATA)>
+<!ELEMENT p2 (#PCDATA)>
+]>
+<xmlCssDemo>
+	<header>Hello World</header>
+	<p1>Lorem ipsum dolor sit amet, consectetuer adiplaoreet dolore magna aliquam eratj volutpat.</p1>
+	<p2>Lorem ipsum dolor sit amet, consectetuer adiplaoreet dolore magna aliquam eratj volutpat.</p2>
+</xmlCssDemo>

@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+}
+
+li {
+    float: left;
+    color: blue;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+}
+section {
+    color: #0000ff;
+    font-weight: bold;
+}
+
+tr, td{
+    border: 1px solid blue;
+
+}
